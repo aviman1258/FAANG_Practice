@@ -1,0 +1,6 @@
+C:\Users\achan\source\repos\AmazonPracticeProblems\TestAmazon\bin\Debug\TestAmazon.exe.config
+C:\Users\achan\source\repos\AmazonPracticeProblems\TestAmazon\bin\Debug\TestAmazon.exe
+C:\Users\achan\source\repos\AmazonPracticeProblems\TestAmazon\bin\Debug\TestAmazon.pdb
+C:\Users\achan\source\repos\AmazonPracticeProblems\TestAmazon\obj\Debug\TestAmazon.csproj.CoreCompileInputs.cache
+C:\Users\achan\source\repos\AmazonPracticeProblems\TestAmazon\obj\Debug\TestAmazon.exe
+C:\Users\achan\source\repos\AmazonPracticeProblems\TestAmazon\obj\Debug\TestAmazon.pdb

@@ -1,0 +1,7 @@
+C:\Users\achan\source\repos\AmazonPracticeProblems\SquaresOfSortedArray\bin\Debug\SquaresOfSortedArray.exe.config
+C:\Users\achan\source\repos\AmazonPracticeProblems\SquaresOfSortedArray\bin\Debug\SquaresOfSortedArray.exe
+C:\Users\achan\source\repos\AmazonPracticeProblems\SquaresOfSortedArray\bin\Debug\SquaresOfSortedArray.pdb
+C:\Users\achan\source\repos\AmazonPracticeProblems\SquaresOfSortedArray\obj\Debug\SquaresOfSortedArray.csprojAssemblyReference.cache
+C:\Users\achan\source\repos\AmazonPracticeProblems\SquaresOfSortedArray\obj\Debug\SquaresOfSortedArray.csproj.CoreCompileInputs.cache
+C:\Users\achan\source\repos\AmazonPracticeProblems\SquaresOfSortedArray\obj\Debug\SquaresOfSortedArray.exe
+C:\Users\achan\source\repos\AmazonPracticeProblems\SquaresOfSortedArray\obj\Debug\SquaresOfSortedArray.pdb

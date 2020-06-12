@@ -1,0 +1,7 @@
+C:\Users\achan\source\repos\AmazonPracticeProblems\NextBiggestIntWithSame1Bits\bin\Debug\NextBiggestIntWithSame1Bits.exe.config
+C:\Users\achan\source\repos\AmazonPracticeProblems\NextBiggestIntWithSame1Bits\bin\Debug\NextBiggestIntWithSame1Bits.exe
+C:\Users\achan\source\repos\AmazonPracticeProblems\NextBiggestIntWithSame1Bits\bin\Debug\NextBiggestIntWithSame1Bits.pdb
+C:\Users\achan\source\repos\AmazonPracticeProblems\NextBiggestIntWithSame1Bits\obj\Debug\NextBiggestIntWithSame1Bits.csprojAssemblyReference.cache
+C:\Users\achan\source\repos\AmazonPracticeProblems\NextBiggestIntWithSame1Bits\obj\Debug\NextBiggestIntWithSame1Bits.csproj.CoreCompileInputs.cache
+C:\Users\achan\source\repos\AmazonPracticeProblems\NextBiggestIntWithSame1Bits\obj\Debug\NextBiggestIntWithSame1Bits.exe
+C:\Users\achan\source\repos\AmazonPracticeProblems\NextBiggestIntWithSame1Bits\obj\Debug\NextBiggestIntWithSame1Bits.pdb

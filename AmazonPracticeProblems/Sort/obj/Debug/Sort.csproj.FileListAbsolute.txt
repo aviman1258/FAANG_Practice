@@ -1,0 +1,7 @@
+C:\Users\achan\source\repos\AmazonPracticeProblems\Sort\obj\Debug\Sort.csprojAssemblyReference.cache
+C:\Users\achan\source\repos\AmazonPracticeProblems\Sort\obj\Debug\Sort.csproj.CoreCompileInputs.cache
+C:\Users\achan\source\repos\AmazonPracticeProblems\Sort\bin\Debug\Sort.exe.config
+C:\Users\achan\source\repos\AmazonPracticeProblems\Sort\bin\Debug\Sort.exe
+C:\Users\achan\source\repos\AmazonPracticeProblems\Sort\bin\Debug\Sort.pdb
+C:\Users\achan\source\repos\AmazonPracticeProblems\Sort\obj\Debug\Sort.exe
+C:\Users\achan\source\repos\AmazonPracticeProblems\Sort\obj\Debug\Sort.pdb

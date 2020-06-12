@@ -1,0 +1,6 @@
+C:\Users\achan\source\repos\AmazonPracticeProblems\ThreadSafe\bin\Debug\ThreadSafe.exe.config
+C:\Users\achan\source\repos\AmazonPracticeProblems\ThreadSafe\bin\Debug\ThreadSafe.exe
+C:\Users\achan\source\repos\AmazonPracticeProblems\ThreadSafe\bin\Debug\ThreadSafe.pdb
+C:\Users\achan\source\repos\AmazonPracticeProblems\ThreadSafe\obj\Debug\ThreadSafe.csproj.CoreCompileInputs.cache
+C:\Users\achan\source\repos\AmazonPracticeProblems\ThreadSafe\obj\Debug\ThreadSafe.exe
+C:\Users\achan\source\repos\AmazonPracticeProblems\ThreadSafe\obj\Debug\ThreadSafe.pdb

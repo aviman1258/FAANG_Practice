@@ -1,0 +1,7 @@
+C:\Users\achan\source\repos\AmazonPracticeProblems\EventsAndDelegates\bin\Debug\EventsAndDelegates.exe.config
+C:\Users\achan\source\repos\AmazonPracticeProblems\EventsAndDelegates\bin\Debug\EventsAndDelegates.exe
+C:\Users\achan\source\repos\AmazonPracticeProblems\EventsAndDelegates\bin\Debug\EventsAndDelegates.pdb
+C:\Users\achan\source\repos\AmazonPracticeProblems\EventsAndDelegates\obj\Debug\EventsAndDelegates.csprojAssemblyReference.cache
+C:\Users\achan\source\repos\AmazonPracticeProblems\EventsAndDelegates\obj\Debug\EventsAndDelegates.csproj.CoreCompileInputs.cache
+C:\Users\achan\source\repos\AmazonPracticeProblems\EventsAndDelegates\obj\Debug\EventsAndDelegates.exe
+C:\Users\achan\source\repos\AmazonPracticeProblems\EventsAndDelegates\obj\Debug\EventsAndDelegates.pdb
