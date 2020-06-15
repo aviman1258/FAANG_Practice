@@ -115,5 +115,53 @@ namespace BinaryTree
                 }
             }
         }
+
+        public Node InOrderSuccessor(Node root, Node n)
+        {
+            //if right subtree of node is not NULL,
+            //then succ lies in right subtree. Do the following.
+            //Go to right subtree and return the node 
+            //with minimum key value in the right subtree.
+
+            if (n.Right != null)
+                return MinValue(n.Right);
+
+            //If right subtree of node is NULL, 
+            //then start from the root and us search like technique. Do the following.
+            //Travel down the tree, 
+            //if a node’s data is greater than root’s data 
+            //then go right side, otherwise, go to left side.
+
+            Node successor = new Node();
+
+            while(root != null)
+            {
+                if (n.Data < root.Data)
+                {
+                    successor = root;
+                    root = root.Left;
+                }
+                else if (n.Data > root.Data)
+                {
+                    root = root.Right;
+                }
+                else break;
+            }
+
+            return successor;
+        }
+
+        private Node MinValue(Node node)
+        {
+            Node current = node;
+
+            //loop down to find the leftmost leaf
+            while(current.Left != null)
+            {
+                current = current.Left;
+            }
+            
+            return current;
+        }
     }
 }
