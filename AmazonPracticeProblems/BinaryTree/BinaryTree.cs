@@ -163,5 +163,20 @@ namespace BinaryTree
             
             return current;
         }
+
+        public int SumInRange(int min, int max, Node root)
+        {
+            if (root == null) return 0;
+
+            if(root.Data >= min && root.Data <= max)            
+                return  root.Data 
+                    + SumInRange(min, max, root.Left) 
+                    + SumInRange(min, max, root.Right);
+            
+            else if(root.Data < min)
+                return SumInRange(min, max, root.Right);
+            else
+                return SumInRange(min, max, root.Left);
+        }
     }
 }

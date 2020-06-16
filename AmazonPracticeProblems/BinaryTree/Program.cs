@@ -12,16 +12,18 @@ namespace BinaryTree
         {
             BinaryTree binaryTree = new BinaryTree();
 
-            binaryTree.Insert(4);
-            binaryTree.Insert(3);
-            binaryTree.Insert(5);
-            binaryTree.Insert(1);
+            binaryTree.Insert(20);
             binaryTree.Insert(8);
-            binaryTree.Insert(6);
-            binaryTree.Insert(7);
-            binaryTree.Insert(0);
+            binaryTree.Insert(22);
+            binaryTree.Insert(4);
+            binaryTree.Insert(12);
+            binaryTree.Insert(10);
+            binaryTree.Insert(14);
+            binaryTree.Insert(23);
 
-            binaryTree.DrawTree(binaryTree.root, 4);
+            int sum = binaryTree.SumInRange(8, 20, binaryTree.root);
+
+            Console.WriteLine("Sum = " + sum);
 
             Console.ReadLine();
         }
