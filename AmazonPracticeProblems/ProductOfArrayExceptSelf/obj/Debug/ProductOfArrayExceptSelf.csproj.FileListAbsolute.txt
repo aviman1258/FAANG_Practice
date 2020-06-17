@@ -1,0 +1,7 @@
+C:\Users\achan\source\repos\FAANG_Practice\AmazonPracticeProblems\ProductOfArrayExceptSelf\bin\Debug\ProductOfArrayExceptSelf.exe.config
+C:\Users\achan\source\repos\FAANG_Practice\AmazonPracticeProblems\ProductOfArrayExceptSelf\bin\Debug\ProductOfArrayExceptSelf.exe
+C:\Users\achan\source\repos\FAANG_Practice\AmazonPracticeProblems\ProductOfArrayExceptSelf\bin\Debug\ProductOfArrayExceptSelf.pdb
+C:\Users\achan\source\repos\FAANG_Practice\AmazonPracticeProblems\ProductOfArrayExceptSelf\obj\Debug\ProductOfArrayExceptSelf.csprojAssemblyReference.cache
+C:\Users\achan\source\repos\FAANG_Practice\AmazonPracticeProblems\ProductOfArrayExceptSelf\obj\Debug\ProductOfArrayExceptSelf.csproj.CoreCompileInputs.cache
+C:\Users\achan\source\repos\FAANG_Practice\AmazonPracticeProblems\ProductOfArrayExceptSelf\obj\Debug\ProductOfArrayExceptSelf.exe
+C:\Users\achan\source\repos\FAANG_Practice\AmazonPracticeProblems\ProductOfArrayExceptSelf\obj\Debug\ProductOfArrayExceptSelf.pdb
