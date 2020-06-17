@@ -5,3 +5,10 @@ C:\Users\achan\source\repos\AmazonPracticeProblems\BinaryTree\obj\Debug\BinaryTr
 C:\Users\achan\source\repos\AmazonPracticeProblems\BinaryTree\obj\Debug\BinaryTree.csproj.CoreCompileInputs.cache
 C:\Users\achan\source\repos\AmazonPracticeProblems\BinaryTree\obj\Debug\BinaryTree.exe
 C:\Users\achan\source\repos\AmazonPracticeProblems\BinaryTree\obj\Debug\BinaryTree.pdb
+C:\Users\achan\source\repos\FAANG_Practice\AmazonPracticeProblems\BinaryTree\bin\Debug\BinaryTree.exe.config
+C:\Users\achan\source\repos\FAANG_Practice\AmazonPracticeProblems\BinaryTree\bin\Debug\BinaryTree.exe
+C:\Users\achan\source\repos\FAANG_Practice\AmazonPracticeProblems\BinaryTree\bin\Debug\BinaryTree.pdb
+C:\Users\achan\source\repos\FAANG_Practice\AmazonPracticeProblems\BinaryTree\obj\Debug\BinaryTree.csprojAssemblyReference.cache
+C:\Users\achan\source\repos\FAANG_Practice\AmazonPracticeProblems\BinaryTree\obj\Debug\BinaryTree.csproj.CoreCompileInputs.cache
+C:\Users\achan\source\repos\FAANG_Practice\AmazonPracticeProblems\BinaryTree\obj\Debug\BinaryTree.exe
+C:\Users\achan\source\repos\FAANG_Practice\AmazonPracticeProblems\BinaryTree\obj\Debug\BinaryTree.pdb

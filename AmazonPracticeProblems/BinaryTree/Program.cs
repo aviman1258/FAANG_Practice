@@ -24,8 +24,6 @@ namespace BinaryTree
             int sum = binaryTree.SumInRange(8, 20, binaryTree.root);
 
             Console.WriteLine("Sum = " + sum);
-
-            Console.ReadLine();
         }
     }
 }

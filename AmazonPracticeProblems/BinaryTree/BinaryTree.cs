@@ -166,15 +166,23 @@ namespace BinaryTree
 
         public int SumInRange(int min, int max, Node root)
         {
+            //Base Case
             if (root == null) return 0;
-
+            
+            //If current node is in range,
+            //include it in the sum and
+            //recur for left and right children of it
             if(root.Data >= min && root.Data <= max)            
                 return  root.Data 
                     + SumInRange(min, max, root.Left) 
                     + SumInRange(min, max, root.Right);
             
+            //If current node is smaller than low,
+            //then recur for right child
             else if(root.Data < min)
                 return SumInRange(min, max, root.Right);
+
+            // Else recur for left child
             else
                 return SumInRange(min, max, root.Left);
         }
