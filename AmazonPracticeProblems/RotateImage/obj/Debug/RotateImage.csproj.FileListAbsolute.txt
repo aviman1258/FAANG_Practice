@@ -1,0 +1,7 @@
+C:\Users\achan\source\repos\FAANG_Practice\AmazonPracticeProblems\RotateImage\bin\Debug\RotateImage.exe.config
+C:\Users\achan\source\repos\FAANG_Practice\AmazonPracticeProblems\RotateImage\bin\Debug\RotateImage.exe
+C:\Users\achan\source\repos\FAANG_Practice\AmazonPracticeProblems\RotateImage\bin\Debug\RotateImage.pdb
+C:\Users\achan\source\repos\FAANG_Practice\AmazonPracticeProblems\RotateImage\obj\Debug\RotateImage.csprojAssemblyReference.cache
+C:\Users\achan\source\repos\FAANG_Practice\AmazonPracticeProblems\RotateImage\obj\Debug\RotateImage.csproj.CoreCompileInputs.cache
+C:\Users\achan\source\repos\FAANG_Practice\AmazonPracticeProblems\RotateImage\obj\Debug\RotateImage.exe
+C:\Users\achan\source\repos\FAANG_Practice\AmazonPracticeProblems\RotateImage\obj\Debug\RotateImage.pdb
