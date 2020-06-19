@@ -1,0 +1,7 @@
+C:\Users\achan\source\repos\FAANG_Practice\AmazonPracticeProblems\FirstDuplicate\bin\Debug\FirstDuplicate.exe.config
+C:\Users\achan\source\repos\FAANG_Practice\AmazonPracticeProblems\FirstDuplicate\bin\Debug\FirstDuplicate.exe
+C:\Users\achan\source\repos\FAANG_Practice\AmazonPracticeProblems\FirstDuplicate\bin\Debug\FirstDuplicate.pdb
+C:\Users\achan\source\repos\FAANG_Practice\AmazonPracticeProblems\FirstDuplicate\obj\Debug\FirstDuplicate.csprojAssemblyReference.cache
+C:\Users\achan\source\repos\FAANG_Practice\AmazonPracticeProblems\FirstDuplicate\obj\Debug\FirstDuplicate.csproj.CoreCompileInputs.cache
+C:\Users\achan\source\repos\FAANG_Practice\AmazonPracticeProblems\FirstDuplicate\obj\Debug\FirstDuplicate.exe
+C:\Users\achan\source\repos\FAANG_Practice\AmazonPracticeProblems\FirstDuplicate\obj\Debug\FirstDuplicate.pdb
