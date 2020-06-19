@@ -27,18 +27,18 @@ namespace FirstDuplicate
         {
             int N = a.Length;
 
-            int indexOfFirstDup = -1;
+            int indexOfFirstDup = N;
 
             for (int i = 0; i < N; i++)
             {
                 for(int j = i + 1; j < N; j++)
                 {
-                    if (a[i] == a[j] && (j < indexOfFirstDup || indexOfFirstDup == -1)) 
+                    if (a[i] == a[j] && j < indexOfFirstDup) 
                         indexOfFirstDup = j;
                 }
             }
 
-            if (indexOfFirstDup == -1) return indexOfFirstDup;
+            if (indexOfFirstDup == N) return -1;
             else return a[indexOfFirstDup];
         }
 
