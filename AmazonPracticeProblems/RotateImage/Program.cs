@@ -17,9 +17,18 @@ namespace RotateImage
                 { 7, 8, 9} 
             };
 
-            img = RotateImage(img);
-
             int N = img.GetLength(0);
+
+            for (int i = 0; i < N; i++)
+            {
+                for (int j = 0; j < N; j++)
+                {
+                    Console.Write(img[i, j] + " ");
+                }
+                Console.Write("\n");
+            }
+
+            img = RotateImage(img);            
 
             for (int i = 0; i < N; i++)
             {
