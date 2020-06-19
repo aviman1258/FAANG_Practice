@@ -44,13 +44,13 @@ namespace FirstDuplicate
 
         private static int FindFirstDupHash(int[] a)
         {
-            HashSet<int> valuePairs = new HashSet<int>();
+            HashSet<int> seen = new HashSet<int>();
             int N = a.Length;
             
             for(int i = 0; i < N; i++)
             {
-                if (valuePairs.Contains(a[i])) return a[i];
-                else valuePairs.Add(a[i]);
+                if (seen.Contains(a[i])) return a[i];
+                else seen.Add(a[i]);
             }
 
             return -1;
