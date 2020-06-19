@@ -13,15 +13,50 @@ namespace FirstDuplicate
             //Find the first duplicate in array.
             //All elements of array must be 1 <= a[i] <= N.
             
-            int[] a = { 2, 3, 2, 1, 3 };
+            int[] a = { 4, 4, 2, 1, 3 };
 
-            int dup = FindFirstDup(a);
+            int dup = FindFirstDupConstSpace(a);
+            //int dup = FindFirstDupHash(a);
+            //int dup = FindFirstDupBruteForce(a);
 
 
             Console.WriteLine("The first duplicate is " + dup);
         }
 
-        private static int FindFirstDup(int[] a)
+        private static int FindFirstDupBruteForce(int[] a)
+        {
+            int N = a.Length;
+
+            int indexOfFirstDup = -1;
+
+            for (int i = 0; i < N; i++)
+            {
+                for(int j = i + 1; j < N; j++)
+                {
+                    if (a[i] == a[j] && (j < indexOfFirstDup || indexOfFirstDup == -1)) 
+                        indexOfFirstDup = j;
+                }
+            }
+
+            if (indexOfFirstDup == -1) return indexOfFirstDup;
+            else return a[indexOfFirstDup];
+        }
+
+        private static int FindFirstDupHash(int[] a)
+        {
+            Dictionary<int, int> valuePairs = new Dictionary<int, int>();
+            int N = a.Length;
+            
+            for(int i = 0; i < N; i++)
+            {
+                if (valuePairs.ContainsKey(a[i])) return a[i];
+                else valuePairs.Add(a[i], 1);
+            }
+
+            return -1;
+        }
+
+        private static int FindFirstDupConstSpace(int[] a)
         {
             int N = a.Length;
 
