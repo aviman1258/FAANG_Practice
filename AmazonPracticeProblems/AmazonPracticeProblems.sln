@@ -35,6 +35,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FirstDuplicate", "FirstDupl
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RotateImage", "RotateImage\RotateImage.csproj", "{DF7903B6-7502-4166-8730-8E2829AE800A}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NumberOfIslands", "NumberOfIslands\NumberOfIslands.csproj", "{ACA4D233-E94E-4BB8-A47E-05CB24B71B45}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TernarySearchTree", "TernarySearchTree\TernarySearchTree.csproj", "{F477ABDC-A39A-478D-B620-C1FAC2FC7F7B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -105,6 +109,14 @@ Global
 		{DF7903B6-7502-4166-8730-8E2829AE800A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{DF7903B6-7502-4166-8730-8E2829AE800A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{DF7903B6-7502-4166-8730-8E2829AE800A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ACA4D233-E94E-4BB8-A47E-05CB24B71B45}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ACA4D233-E94E-4BB8-A47E-05CB24B71B45}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ACA4D233-E94E-4BB8-A47E-05CB24B71B45}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ACA4D233-E94E-4BB8-A47E-05CB24B71B45}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F477ABDC-A39A-478D-B620-C1FAC2FC7F7B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F477ABDC-A39A-478D-B620-C1FAC2FC7F7B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F477ABDC-A39A-478D-B620-C1FAC2FC7F7B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F477ABDC-A39A-478D-B620-C1FAC2FC7F7B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
