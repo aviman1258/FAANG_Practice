@@ -5,3 +5,10 @@ C:\Users\achan\source\repos\AmazonPracticeProblems\TwoSum\obj\Debug\TwoSum.cspro
 C:\Users\achan\source\repos\AmazonPracticeProblems\TwoSum\obj\Debug\TwoSum.csproj.CoreCompileInputs.cache
 C:\Users\achan\source\repos\AmazonPracticeProblems\TwoSum\obj\Debug\TwoSum.exe
 C:\Users\achan\source\repos\AmazonPracticeProblems\TwoSum\obj\Debug\TwoSum.pdb
+C:\Users\achan\source\repos\FAANG_Practice\AmazonPracticeProblems\TwoSum\bin\Debug\TwoSum.exe.config
+C:\Users\achan\source\repos\FAANG_Practice\AmazonPracticeProblems\TwoSum\bin\Debug\TwoSum.exe
+C:\Users\achan\source\repos\FAANG_Practice\AmazonPracticeProblems\TwoSum\bin\Debug\TwoSum.pdb
+C:\Users\achan\source\repos\FAANG_Practice\AmazonPracticeProblems\TwoSum\obj\Debug\TwoSum.csprojAssemblyReference.cache
+C:\Users\achan\source\repos\FAANG_Practice\AmazonPracticeProblems\TwoSum\obj\Debug\TwoSum.csproj.CoreCompileInputs.cache
+C:\Users\achan\source\repos\FAANG_Practice\AmazonPracticeProblems\TwoSum\obj\Debug\TwoSum.exe
+C:\Users\achan\source\repos\FAANG_Practice\AmazonPracticeProblems\TwoSum\obj\Debug\TwoSum.pdb
