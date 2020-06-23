@@ -1,0 +1,7 @@
+C:\Users\achan\source\repos\FAANG_Practice\AmazonPracticeProblems\ReverseInt\bin\Debug\ReverseInt.exe.config
+C:\Users\achan\source\repos\FAANG_Practice\AmazonPracticeProblems\ReverseInt\bin\Debug\ReverseInt.exe
+C:\Users\achan\source\repos\FAANG_Practice\AmazonPracticeProblems\ReverseInt\bin\Debug\ReverseInt.pdb
+C:\Users\achan\source\repos\FAANG_Practice\AmazonPracticeProblems\ReverseInt\obj\Debug\ReverseInt.csprojAssemblyReference.cache
+C:\Users\achan\source\repos\FAANG_Practice\AmazonPracticeProblems\ReverseInt\obj\Debug\ReverseInt.csproj.CoreCompileInputs.cache
+C:\Users\achan\source\repos\FAANG_Practice\AmazonPracticeProblems\ReverseInt\obj\Debug\ReverseInt.exe
+C:\Users\achan\source\repos\FAANG_Practice\AmazonPracticeProblems\ReverseInt\obj\Debug\ReverseInt.pdb
