@@ -23,18 +23,51 @@ namespace AddTwoNumbers
 
         static void Main(string[] args)
         {
-            int num1 = 56823;
-            int num2 = 352;
+            ListNode l1 = new ListNode(5);
+            ListNode l2 = new ListNode(5);
 
-            ListNode l1 = ListNode.GetListNodeFromNum(num1);
-            ListNode l2 = ListNode.GetListNodeFromNum(num2);
+            Solution solution = new Solution();
+            ListNode lResult = solution.AddTwoNumbers(l1, l2);
 
-            ListNode resultListNode = ListNode.AddTwoNumbers(l1, l2);
+            Console.WriteLine(lResult.val);
+        }
 
-            int result = ListNode.GetNumFromListNode(resultListNode);
+        public class Solution
+        {
+            public ListNode AddTwoNumbers(ListNode l1, ListNode l2)
+            {
 
-            Console.WriteLine("Expected: " + num1 + " + " + num2 + " = " + (num1 + num2));
-            Console.WriteLine("Result: " + result);
+                ListNode lResult = new ListNode();
+
+                if (l1 != null && l2 != null)
+                {
+                    lResult.val = l1.val + l2.val;
+
+                    if (l1.next != null && l2.next != null)
+                    {
+                        if (lResult.val > 9)
+                        {
+                            (l1.next).val += lResult.val / 10;
+                            lResult.val = lResult.val % 10;
+                        }
+
+                        lResult.next = AddTwoNumbers(l1.next, l2.next);
+                    }
+                }
+
+                return lResult;
+            }
+        }
+    }
+
+    public class ListNode
+    {
+        public int val;
+        public ListNode next;
+        public ListNode(int val = 0, ListNode next = null)
+        {
+            this.val = val;
+            this.next = next;
         }
     }
 }
