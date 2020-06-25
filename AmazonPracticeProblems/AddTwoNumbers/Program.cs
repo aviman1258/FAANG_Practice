@@ -37,20 +37,32 @@ namespace AddTwoNumbers
             public ListNode AddTwoNumbers(ListNode l1, ListNode l2)
             {
 
-                ListNode lResult = new ListNode();
+                ListNode lResult = new ListNode(); ;
 
                 if (l1 != null && l2 != null)
                 {
                     lResult.val = l1.val + l2.val;
 
-                    if (l1.next != null && l2.next != null)
+                    if (lResult.val > 9)
                     {
-                        if (lResult.val > 9)
-                        {
-                            (l1.next).val += lResult.val / 10;
-                            lResult.val = lResult.val % 10;
-                        }
+                        if (l1.next == null)                        
+                            l1.next = new ListNode();                        
 
+                        if (l2.next == null)                        
+                            l2.next = new ListNode();                        
+
+                        (l1.next).val += lResult.val / 10;
+                        lResult.val %= 10;
+                    }
+
+                    if (l1.next != null || l2.next != null)
+                    {
+                        if (l1.next != null && l2.next == null)                        
+                            l2.next = new ListNode();
+                       
+                        if (l1.next == null && l2.next != null)                        
+                            l1.next = new ListNode();
+                        
                         lResult.next = AddTwoNumbers(l1.next, l2.next);
                     }
                 }
