@@ -1,0 +1,7 @@
+C:\Users\achan\source\repos\FAANG_Practice\AmazonPracticeProblems\PalindromeNum\bin\Debug\PalindromeNum.exe.config
+C:\Users\achan\source\repos\FAANG_Practice\AmazonPracticeProblems\PalindromeNum\bin\Debug\PalindromeNum.exe
+C:\Users\achan\source\repos\FAANG_Practice\AmazonPracticeProblems\PalindromeNum\bin\Debug\PalindromeNum.pdb
+C:\Users\achan\source\repos\FAANG_Practice\AmazonPracticeProblems\PalindromeNum\obj\Debug\PalindromeNum.csprojAssemblyReference.cache
+C:\Users\achan\source\repos\FAANG_Practice\AmazonPracticeProblems\PalindromeNum\obj\Debug\PalindromeNum.csproj.CoreCompileInputs.cache
+C:\Users\achan\source\repos\FAANG_Practice\AmazonPracticeProblems\PalindromeNum\obj\Debug\PalindromeNum.exe
+C:\Users\achan\source\repos\FAANG_Practice\AmazonPracticeProblems\PalindromeNum\obj\Debug\PalindromeNum.pdb
