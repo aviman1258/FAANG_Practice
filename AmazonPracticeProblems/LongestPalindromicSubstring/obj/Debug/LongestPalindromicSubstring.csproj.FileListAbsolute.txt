@@ -1,0 +1,7 @@
+C:\Users\achan\source\repos\FAANG_Practice\AmazonPracticeProblems\LongestPalindromicSubstring\bin\Debug\LongestPalindromicSubstring.exe.config
+C:\Users\achan\source\repos\FAANG_Practice\AmazonPracticeProblems\LongestPalindromicSubstring\bin\Debug\LongestPalindromicSubstring.exe
+C:\Users\achan\source\repos\FAANG_Practice\AmazonPracticeProblems\LongestPalindromicSubstring\bin\Debug\LongestPalindromicSubstring.pdb
+C:\Users\achan\source\repos\FAANG_Practice\AmazonPracticeProblems\LongestPalindromicSubstring\obj\Debug\LongestPalindromicSubstring.csprojAssemblyReference.cache
+C:\Users\achan\source\repos\FAANG_Practice\AmazonPracticeProblems\LongestPalindromicSubstring\obj\Debug\LongestPalindromicSubstring.csproj.CoreCompileInputs.cache
+C:\Users\achan\source\repos\FAANG_Practice\AmazonPracticeProblems\LongestPalindromicSubstring\obj\Debug\LongestPalindromicSubstring.exe
+C:\Users\achan\source\repos\FAANG_Practice\AmazonPracticeProblems\LongestPalindromicSubstring\obj\Debug\LongestPalindromicSubstring.pdb
