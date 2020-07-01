@@ -12,10 +12,15 @@ namespace TernarySearchTree
         {
             TernarySearchTree ternarySearchTree = new TernarySearchTree();
 
-            ternarySearchTree.Insert(ref ternarySearchTree.Root, "boat");
-            ternarySearchTree.Insert(ref ternarySearchTree.Root, "boats");
-            ternarySearchTree.Insert(ref ternarySearchTree.Root, "bats");
-            ternarySearchTree.Insert(ref ternarySearchTree.Root, "bat");
+            ternarySearchTree.Insert(ref ternarySearchTree.Root, "code");
+            ternarySearchTree.Insert(ref ternarySearchTree.Root, "cob");
+            ternarySearchTree.Insert(ref ternarySearchTree.Root, "be");
+            ternarySearchTree.Insert(ref ternarySearchTree.Root, "ax");
+            ternarySearchTree.Insert(ref ternarySearchTree.Root, "war");
+            ternarySearchTree.Insert(ref ternarySearchTree.Root, "we");
+
+            bool be = ternarySearchTree.Search(ref ternarySearchTree.Root, "be");
+            bool cat = ternarySearchTree.Search(ref ternarySearchTree.Root, "cat");
         }
     }
 

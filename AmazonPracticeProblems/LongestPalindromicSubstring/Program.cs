@@ -12,7 +12,7 @@ namespace LongestPalindromicSubstring
 
         static void Main(string[] args)
         {
-            string s = "bb";
+            string s = "a";
 
             string palindrom = LongestPalindrom(s);
 
@@ -38,7 +38,7 @@ namespace LongestPalindromicSubstring
 
                 int len = Math.Max(len1, len2);
 
-                if(len - 1> end - start)
+                if(len > end - start + 1)
                 {
                     start = i - (len - 1) / 2;
                     end = i + len / 2;

@@ -17,13 +17,83 @@ namespace TripletSum
 
         static void Main(string[] args)
         {
-            int[] nums = { 20, 303, 3, 4, 25 };
-            int k = 49;
+            int[] nums = { -1, 0, 1, 2, -1, 4 };
+            int k = 0;
 
             if (TripletPresent(nums, k))
+            {
                 Console.WriteLine("Triplet adding to " + k + " present!");
+
+                IList<IList<int>> result = ThreeSum(nums, k);
+
+                foreach(var set in result)
+                {
+                    foreach(var digit in set)
+                    {
+                        Console.Write(digit + " ");
+                    }
+                    Console.WriteLine();
+                }               
+            }
             else
                 Console.WriteLine("Triplet adding to " + k + " not present!");
+        }
+
+        /// <summary>
+        /// Given an array nums of n integers, 
+        /// are there elements a, b, c in nums 
+        /// such that a + b + c = 0? 
+        /// Find all unique triplets in the array which gives the sum of k.
+        /// The solution set must not contain duplicate triplets.
+        /// </summary>
+        /// <param name="nums"></param>
+        /// <param name="k"></param>
+        /// <returns></returns>
+        private static IList<IList<int>> ThreeSum(int[] nums, int k)
+        {
+            Array.Sort(nums);
+
+            int N = nums.Length;
+            int headPtr = 0;
+            int tailPtr = N - 1;
+            List<IList<int>> resultList = new List<IList<int>>();
+
+            for (int i = 0; i < N; i++)
+            {
+                //If the number is same as last number continue.
+                if (i != 0 && nums[i] == nums[i - 1]) continue;
+
+                List<int> localResultList = new List<int>();
+                int compliment = k - nums[i];
+
+                while (tailPtr > headPtr)
+                {
+                    if (headPtr == i)
+                    {
+                        headPtr++;
+                        continue;
+                    }
+                    if (tailPtr == i)
+                    {
+                        tailPtr--;
+                        continue;
+                    }
+
+                    if (nums[headPtr] + nums[tailPtr] == compliment)
+                    {
+                        localResultList.Add(nums[i]);
+                        localResultList.Add(nums[headPtr]);
+                        localResultList.Add(nums[tailPtr]);
+                        resultList.Add(localResultList);
+
+                        break;
+                    }
+                    else if (nums[headPtr] + nums[tailPtr] > compliment) tailPtr--;
+                    else headPtr++;
+                }
+            }
+
+            return resultList;
         }
 
         private static bool TripletPresent(int[] nums, int k)

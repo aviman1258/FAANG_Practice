@@ -1,0 +1,6 @@
+C:\Users\achan\source\repos\FAANG_Practice\AmazonPracticeProblems\ContainerWithMostWater\bin\Debug\ContainerWithMostWater.exe.config
+C:\Users\achan\source\repos\FAANG_Practice\AmazonPracticeProblems\ContainerWithMostWater\bin\Debug\ContainerWithMostWater.exe
+C:\Users\achan\source\repos\FAANG_Practice\AmazonPracticeProblems\ContainerWithMostWater\bin\Debug\ContainerWithMostWater.pdb
+C:\Users\achan\source\repos\FAANG_Practice\AmazonPracticeProblems\ContainerWithMostWater\obj\Debug\ContainerWithMostWater.csproj.CoreCompileInputs.cache
+C:\Users\achan\source\repos\FAANG_Practice\AmazonPracticeProblems\ContainerWithMostWater\obj\Debug\ContainerWithMostWater.exe
+C:\Users\achan\source\repos\FAANG_Practice\AmazonPracticeProblems\ContainerWithMostWater\obj\Debug\ContainerWithMostWater.pdb

@@ -1,0 +1,7 @@
+C:\Users\achan\source\repos\FAANG_Practice\AmazonPracticeProblems\RemoveNthNodeFromEndOfList\bin\Debug\RemoveNthNodeFromEndOfList.exe.config
+C:\Users\achan\source\repos\FAANG_Practice\AmazonPracticeProblems\RemoveNthNodeFromEndOfList\bin\Debug\RemoveNthNodeFromEndOfList.exe
+C:\Users\achan\source\repos\FAANG_Practice\AmazonPracticeProblems\RemoveNthNodeFromEndOfList\bin\Debug\RemoveNthNodeFromEndOfList.pdb
+C:\Users\achan\source\repos\FAANG_Practice\AmazonPracticeProblems\RemoveNthNodeFromEndOfList\obj\Debug\RemoveNthNodeFromEndOfList.csprojAssemblyReference.cache
+C:\Users\achan\source\repos\FAANG_Practice\AmazonPracticeProblems\RemoveNthNodeFromEndOfList\obj\Debug\RemoveNthNodeFromEndOfList.csproj.CoreCompileInputs.cache
+C:\Users\achan\source\repos\FAANG_Practice\AmazonPracticeProblems\RemoveNthNodeFromEndOfList\obj\Debug\RemoveNthNodeFromEndOfList.exe
+C:\Users\achan\source\repos\FAANG_Practice\AmazonPracticeProblems\RemoveNthNodeFromEndOfList\obj\Debug\RemoveNthNodeFromEndOfList.pdb

@@ -28,8 +28,8 @@ namespace ReverseInt
 
         public static int Reverse(int x)
         {
-            if (x == 0) return 0;
-            if (x == -2147483648) return 0;
+            //Edge cases
+            if (x == 0 || x == -2147483648) return 0;
 
             bool neg = false;
             if (x < 0) neg = true;

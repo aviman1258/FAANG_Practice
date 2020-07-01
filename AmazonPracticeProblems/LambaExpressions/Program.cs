@@ -46,8 +46,8 @@ namespace LambaExpressions
             //Predicate can take any input and will
             //output a boolean type
 
-            Predicate<string> CheckGraeterThan5 = x => x.Length > 5;
-            Console.WriteLine(CheckGraeterThan5("Avishek"));
+            Predicate<string> CheckGreaterThan5 = x => x.Length > 5;
+            Console.WriteLine(CheckGreaterThan5("Avishek"));
 
             List<string> oString = new List<string>();
 
@@ -57,7 +57,7 @@ namespace LambaExpressions
             //You can pass a predicate into the Find function
             //You will find strings that match that predicate
             //or strings with length greater than 5
-            string str = oString.Find(CheckGraeterThan5);
+            string str = oString.Find(CheckGreaterThan5);
             Console.Write(str);
 
             //Expression trees

@@ -5,3 +5,10 @@ C:\Users\achan\source\repos\AmazonPracticeProblems\TripletSum\obj\Debug\TripletS
 C:\Users\achan\source\repos\AmazonPracticeProblems\TripletSum\obj\Debug\TripletSum.csproj.CoreCompileInputs.cache
 C:\Users\achan\source\repos\AmazonPracticeProblems\TripletSum\obj\Debug\TripletSum.exe
 C:\Users\achan\source\repos\AmazonPracticeProblems\TripletSum\obj\Debug\TripletSum.pdb
+C:\Users\achan\source\repos\FAANG_Practice\AmazonPracticeProblems\TripletSum\bin\Debug\TripletSum.exe.config
+C:\Users\achan\source\repos\FAANG_Practice\AmazonPracticeProblems\TripletSum\bin\Debug\TripletSum.exe
+C:\Users\achan\source\repos\FAANG_Practice\AmazonPracticeProblems\TripletSum\bin\Debug\TripletSum.pdb
+C:\Users\achan\source\repos\FAANG_Practice\AmazonPracticeProblems\TripletSum\obj\Debug\TripletSum.csprojAssemblyReference.cache
+C:\Users\achan\source\repos\FAANG_Practice\AmazonPracticeProblems\TripletSum\obj\Debug\TripletSum.csproj.CoreCompileInputs.cache
+C:\Users\achan\source\repos\FAANG_Practice\AmazonPracticeProblems\TripletSum\obj\Debug\TripletSum.exe
+C:\Users\achan\source\repos\FAANG_Practice\AmazonPracticeProblems\TripletSum\obj\Debug\TripletSum.pdb
