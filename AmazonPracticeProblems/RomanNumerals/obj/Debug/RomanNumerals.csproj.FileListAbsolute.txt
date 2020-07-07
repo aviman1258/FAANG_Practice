@@ -1,0 +1,7 @@
+C:\Users\achan\source\repos\FAANG_Practice\AmazonPracticeProblems\RomanNumerals\bin\Debug\RomanNumerals.exe.config
+C:\Users\achan\source\repos\FAANG_Practice\AmazonPracticeProblems\RomanNumerals\bin\Debug\RomanNumerals.exe
+C:\Users\achan\source\repos\FAANG_Practice\AmazonPracticeProblems\RomanNumerals\bin\Debug\RomanNumerals.pdb
+C:\Users\achan\source\repos\FAANG_Practice\AmazonPracticeProblems\RomanNumerals\obj\Debug\RomanNumerals.csprojAssemblyReference.cache
+C:\Users\achan\source\repos\FAANG_Practice\AmazonPracticeProblems\RomanNumerals\obj\Debug\RomanNumerals.csproj.CoreCompileInputs.cache
+C:\Users\achan\source\repos\FAANG_Practice\AmazonPracticeProblems\RomanNumerals\obj\Debug\RomanNumerals.exe
+C:\Users\achan\source\repos\FAANG_Practice\AmazonPracticeProblems\RomanNumerals\obj\Debug\RomanNumerals.pdb
