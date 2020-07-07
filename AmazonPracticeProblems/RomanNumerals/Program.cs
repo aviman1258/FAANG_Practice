@@ -11,8 +11,10 @@ namespace RomanNumerals
         static void Main(string[] args)
         {
             int num = 999;
+            string romanNum = IntToRoman(num);
+            int decNum = RomanToInt(romanNum);
 
-            Console.WriteLine(num + ": " + IntToRoman(num));
+            Console.WriteLine(decNum + ": " + romanNum);
         }
 
         public static string IntToRoman(int num)
@@ -77,6 +79,42 @@ namespace RomanNumerals
             }
 
             return romanNum;
+        }
+        public static int RomanToInt(string s)
+        {
+            Dictionary<string, int> romanNumConv = new Dictionary<string, int>{
+            {"I",1},
+            {"V",5},
+            {"X",10},
+            {"L",50},
+            {"C",100},
+            {"D",500},
+            {"M",1000},
+            {"IV",4},
+            {"IX",9},
+            {"XL",40},
+            {"XC",90},
+            {"CD",400},
+            {"CM",900}
+        };
+
+
+            int num = 0;
+
+            for (int i = 0; i < s.Length; i++)
+            {
+                if (i < s.Length - 1 && romanNumConv.TryGetValue(s[i].ToString() + s[i + 1].ToString(), out int localNum))
+                {
+                    num += localNum;
+                    i++;
+                }
+                else if (romanNumConv.TryGetValue(s[i].ToString(), out int localNum2))
+                {
+                    num += localNum2;
+                }
+            }
+
+            return num;
         }
     }
 }
