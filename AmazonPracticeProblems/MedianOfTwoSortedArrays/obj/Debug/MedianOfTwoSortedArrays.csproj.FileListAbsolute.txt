@@ -1,0 +1,7 @@
+C:\Users\achan\source\repos\FAANG_Practice\AmazonPracticeProblems\MedianOfTwoSortedArrays\bin\Debug\MedianOfTwoSortedArrays.exe.config
+C:\Users\achan\source\repos\FAANG_Practice\AmazonPracticeProblems\MedianOfTwoSortedArrays\bin\Debug\MedianOfTwoSortedArrays.exe
+C:\Users\achan\source\repos\FAANG_Practice\AmazonPracticeProblems\MedianOfTwoSortedArrays\bin\Debug\MedianOfTwoSortedArrays.pdb
+C:\Users\achan\source\repos\FAANG_Practice\AmazonPracticeProblems\MedianOfTwoSortedArrays\obj\Debug\MedianOfTwoSortedArrays.csprojAssemblyReference.cache
+C:\Users\achan\source\repos\FAANG_Practice\AmazonPracticeProblems\MedianOfTwoSortedArrays\obj\Debug\MedianOfTwoSortedArrays.csproj.CoreCompileInputs.cache
+C:\Users\achan\source\repos\FAANG_Practice\AmazonPracticeProblems\MedianOfTwoSortedArrays\obj\Debug\MedianOfTwoSortedArrays.exe
+C:\Users\achan\source\repos\FAANG_Practice\AmazonPracticeProblems\MedianOfTwoSortedArrays\obj\Debug\MedianOfTwoSortedArrays.pdb
