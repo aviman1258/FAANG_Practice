@@ -1,0 +1,7 @@
+C:\Users\achan\source\repos\FAANG_Practice\AmazonPracticeProblems\LetterCombinationsOfAPhoneNumber\obj\Debug\LetterCombinationsOfAPhoneNumber.csprojAssemblyReference.cache
+C:\Users\achan\source\repos\FAANG_Practice\AmazonPracticeProblems\LetterCombinationsOfAPhoneNumber\obj\Debug\LetterCombinationsOfAPhoneNumber.csproj.CoreCompileInputs.cache
+C:\Users\achan\source\repos\FAANG_Practice\AmazonPracticeProblems\LetterCombinationsOfAPhoneNumber\bin\Debug\LetterCombinationsOfAPhoneNumber.exe.config
+C:\Users\achan\source\repos\FAANG_Practice\AmazonPracticeProblems\LetterCombinationsOfAPhoneNumber\bin\Debug\LetterCombinationsOfAPhoneNumber.exe
+C:\Users\achan\source\repos\FAANG_Practice\AmazonPracticeProblems\LetterCombinationsOfAPhoneNumber\bin\Debug\LetterCombinationsOfAPhoneNumber.pdb
+C:\Users\achan\source\repos\FAANG_Practice\AmazonPracticeProblems\LetterCombinationsOfAPhoneNumber\obj\Debug\LetterCombinationsOfAPhoneNumber.exe
+C:\Users\achan\source\repos\FAANG_Practice\AmazonPracticeProblems\LetterCombinationsOfAPhoneNumber\obj\Debug\LetterCombinationsOfAPhoneNumber.pdb
